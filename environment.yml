@@ -1,0 +1,7 @@
+name: default_python
+dependencies:
+  - numpy
+  - matplotlib
+  - pylab
+  - ipywidgets
+
