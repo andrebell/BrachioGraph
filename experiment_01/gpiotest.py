@@ -8,16 +8,19 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setup(GPIO_green, GPIO.OUT)
 GPIO.setup(GPIO_red, GPIO.OUT)
 
-green = 1
-red = 0
+def blinke(n):
+    for i in range(n):
+        GPIO.output(GPIO_green, 0)
+        GPIO.output(GPIO_red, 0)
 
-for i in range(100):
-    GPIO.output(GPIO_green, green)
-    GPIO.output(GPIO_red, red)
+        time.sleep(0.3)
 
-    green, red = red, green
+        GPIO.output(GPIO_green, 1)
+        GPIO.output(GPIO_red, 1)
 
-    time.sleep(0.3)
+        time.sleep(0.3)
+
+blinke(10)
 
 GPIO.cleanup()
 
