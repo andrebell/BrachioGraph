@@ -6,3 +6,8 @@ This repositories contains all files, which we developed during our maker days t
 
 To illustrate the basic concepts of GPIOs and python programs controlling the GPIOs, we have set up two LEDs on the GPIO ports 4 and 17. This program is just a simple blinking light on both LEDs.
 
+## Experiment 02
+
+A servo requires a pulse-width-modulated signal (PWM) to control its position. The jupyter notebook is to illustrate, what a PWM signal actually looks like. You can try it out on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrebell/BrachioGraph.git/master?filepath=%2Fexperiment_02%2Fpwm_demo.ipynb). Please execute each cell with `Shift`+`Return`.
+
+
