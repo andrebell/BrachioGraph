@@ -1,7 +1,7 @@
 name: default_python
 dependencies:
   - numpy
+  - scipy
   - matplotlib
-  - pylab
   - ipywidgets
 
