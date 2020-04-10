@@ -13,5 +13,3 @@ article_header:
 # BrachioGraph Plotter
 
 Just a test change
-
-{{ site }}
