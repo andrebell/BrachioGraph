@@ -14,3 +14,6 @@ article_header:
 
 Just a test change
 
+{{ site.title }}
+
+{{ site.baseurl }}
