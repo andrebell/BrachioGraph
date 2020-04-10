@@ -7,7 +7,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /assets/images/brachiograph_plotter.jpg
+    src: /brachiograph/images/brachiograph_plotter.jpg
 ---
 
 # BrachioGraph Plotter
