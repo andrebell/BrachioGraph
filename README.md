@@ -8,7 +8,7 @@ To illustrate the basic concepts of GPIOs and python programs controlling the GP
 
 ## 02 - PWM servo experiment
 
-A servo requires a pulse-width-modulated signal (PWM) to control its position. The jupyter notebook is to illustrate, what a PWM signal actually looks like. You can try it out on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrebell/brachiograph.git/master?filepath=%2Fexperiment_02%2Fpwm_demo.ipynb). Please execute each cell with `Shift`+`Return`.
+A servo requires a pulse-width-modulated signal (PWM) to control its position. The jupyter notebook is to illustrate, what a PWM signal actually looks like. You can try it out on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrebell/brachiograph.git/master?filepath=%2F02_pwm_servo_experiment%2Fpwm_demo.ipynb). Please execute each cell with `Shift`+`Return`.
 
 ## 03 - Construction
 
