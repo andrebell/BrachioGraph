@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Feynman's view on the world is amazing
+title: BrachioGraph Plotter
 mode: immersive
 header:
   theme: dark
