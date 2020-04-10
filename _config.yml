@@ -56,15 +56,15 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: andrebell/andrebell.github.io
-repository_tree: master
+repository: andrebell/brachiograph
+repository_tree: gh-pages
 
 
 ## => Paths
 ##############################
 paths:
-  root    : # title link url, "/" (default)
-  home    : # home layout url, "/" (default)
+  root    : https://andre-bell.de/brachiograph # title link url, "/" (default)
+  home    : https://andre-bell.de/ # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 

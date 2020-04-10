@@ -7,13 +7,11 @@ header:
 article_header:
   type: cover
   image:
-    src: /assets/images/home.jpg
+    src: /assets/images/brachiograph_plotter.jpg
 ---
 
 # BrachioGraph Plotter
 
 Just a test change
 
-{{ site.title }}
-
-{{ site.baseurl }}
+{{ site }}
