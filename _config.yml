@@ -2,4 +2,5 @@ title: andre-bell.de
 author: André Alexander Bell
 email: post@andre-bell.de
 lang: en
-theme: jekyll-theme-hacker
+remote_theme: andrebell/andrebell.github.io
+
