@@ -7,7 +7,8 @@ header:
 article_header:
   type: cover
   image:
-    src: /brachiograph/images/brachiograph_plotter.jpg
+    src: /projects/brachiograph/images/brachiograph_plotter.jpg
+key: project_brachigraph
 ---
 
 It should start to work...
