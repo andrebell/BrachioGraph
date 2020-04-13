@@ -9,6 +9,8 @@ article_header:
   image:
     src: /projects/brachiograph/images/brachiograph_plotter.jpg
 key: project_brachigraph
+sidebar:
+  nav: brachiograph
 ---
 
 It should start to work...
